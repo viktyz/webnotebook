@@ -1,2 +1,3 @@
-# webnotebook
-这是一本用于记录 Web 开发过程中遇到的一些问题和解决方案的电子书
+# My Awesome Book
+
+This file file serves as your book's preface, a great place to describe your book's content and ideas.
