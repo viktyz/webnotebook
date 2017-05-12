@@ -53,5 +53,5 @@ JavaScript \
 ### 备注
 （无）
 
-JavaScript_Image_00001_00001
-JavaScript_00001_20160129.md
+wimage_00001_00001
+wnote_00001_20160129.md

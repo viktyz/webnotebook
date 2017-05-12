@@ -27,3 +27,4 @@
  * [JavaScript - 学习资源收集](Notes/wnote_00004_20160314.md)
  * [JavaScript - 开发工具介绍](Notes/wnote_00001_20160129.md)
  * [JavaScript - 正则表达式介绍](Notes/wnote_00002_20160130.md)
+ * [NPM - npm 安装使用与工具推荐](Notes/wnote_00006_20170512.md)
